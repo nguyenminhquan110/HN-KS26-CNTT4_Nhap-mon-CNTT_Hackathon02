@@ -3,7 +3,7 @@
 - **Mã đề:** 01
 - **Họ tên:** Nguyễn Minh Quân	
 - **Lớp:** CNTT4
-- **Link repository:** 
+- **Link repository:** https://github.com/nguyenminhquan110/HN-KS26-CNTT4_Nhap-mon-CNTT_Hackathon02.git
 - **Hệ điều hành (Windows/macOS):** macOS
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
